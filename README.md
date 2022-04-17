@@ -2,6 +2,8 @@
 
 This repository contains coding developed at [42tokyo's](https://42tokyo.jp/) C bootcamp (also known as `Piscine`), from 10/may/2021 to 4/june/2021.
 
+Final ranking: 15/200 students - level 7 
+
 ## About 42
 
 	42 is a global education initiative that proposes a new way of learning technology: no teachers,
