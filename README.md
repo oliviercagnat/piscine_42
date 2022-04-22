@@ -12,7 +12,7 @@ Final ranking: 15/200 students - level 7
 	approved in its selection process. The so-called "C Piscine", a 26-day C programming bootcamp,
 	is the last stage in the selection process for becoming a "cadet" (42's student).
 
-[![Photo of a 42tokyo's lab](42tokyo.jpeg)]
+![Photo of a 42tokyo's lab](42tokyo.jpeg)
 
 ## Skills developed at C Piscine
 
